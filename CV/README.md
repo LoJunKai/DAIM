@@ -5,3 +5,4 @@
 - `Jun_Kai_Roboflow_Tutorial_Eval.ipynb` notebook is largely the original Roboflow tutorial for the training sections. Edited parts are under `Run inference test` section, for inference and evaluation. This notebook used to evaluate the frcnn models from the other notebooks.
 - `Jun_Kai_Roboflow_Tutorial.ipynb` notebook is based on the frcnn architecture, with original parameters, training on the original DSTA dataset.
 - `Jun_Kai_improved_frcnn_Tutorial.ipynb` notebook is based on the frcnn architecture, with fine-tuned parameters, training on the DeepFashion2 dataset.
+- `melvin.ipynb` notebook is Melvin's notebook, based on the DSTA template, with fine-tuned parameters (aspect ratio changes).
